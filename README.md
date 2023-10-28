@@ -22,6 +22,8 @@ Important file:
 ## Google Colab Link
 [Google Colab Link](https://colab.research.google.com/github/nogibjj/Haochong-Week-9/blob/main/Week%209%20mini.ipynb)
 
+You can find the details of my data manipulation in both the link and the `Week 9 mini.ipynb` file.
+
 ## Check format and test errors
 1. Format code by using `make format`
 
